@@ -9,4 +9,4 @@ git aaa
 ssss
 
 
-增加conflict
+校验conflict
