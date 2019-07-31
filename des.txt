@@ -12,3 +12,5 @@ ssss
 去除conflict
 
 增加1
+校验conflict
+去除conflict
